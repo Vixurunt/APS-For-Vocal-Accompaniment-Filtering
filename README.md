@@ -1,2 +1,2 @@
-# APS-For-Accompaniment-Filtering
-An audio processing system for accompaniment based on matlab.
+# APS-For-Vocal/Accompaniment-Filtering
+An audio processing system for vocal or accompaniment filtering based on matlab.
