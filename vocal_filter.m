@@ -99,12 +99,12 @@ xlabel('f/Hz')
 
 subplot(223)
 plot(t,SoundFinalR_t);
-title(''FinalTract_R')
+title('FinalTract_R')
 xlabel('t/s')
 
 subplot(224)
 plot(f,SoundFinalR_f,'r');
-title(''FinalTractR_Spectrogram')
+title('FinalTractR_Spectrogram')
 xlabel('f/Hz')
 
 %play
